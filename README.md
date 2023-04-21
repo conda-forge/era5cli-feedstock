@@ -1,11 +1,11 @@
-About era5cli
-=============
+About era5cli-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/era5cli-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ewatercycle/era5cli
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/era5cli-feedstock/blob/main/LICENSE.txt)
 
 Summary: A command line interface to download ERA5 data from the Copernicus Climate Data Store https://climate.copernicus.eu/.
 
