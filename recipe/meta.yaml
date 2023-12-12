@@ -1,5 +1,5 @@
 {% set name = "era5cli" %}
-{% set version = "1.4.1" %}
+{% set version = "1.4.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/era5cli-{{ version }}.tar.gz
-  sha256: 5c667fe55d174cb38844090739f98375506189989235ad50a83ad1276e427c05
+  sha256: ccb61d60dcaba4d28c7da84c9ae26899dcb4e5b22e370c3f14a876c1dfa23ea2
 
 build:
   entry_points:
