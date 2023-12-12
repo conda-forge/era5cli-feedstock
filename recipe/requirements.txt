@@ -1,4 +1,4 @@
-cdsapi == 0.4.0
+cdsapi == 0.5.1
 pathos
 PTable
 netCDF4
