@@ -24,8 +24,8 @@ requirements:
     - hatch-fancy-pypi-readme
     - pip
   run:
-    - python >={{ python_min }},<3.12
-    - cdsapi ==0.5.1
+    - python >={{ python_min }}
+    - cdsapi >=0.7.4
     - pathos
     - ptable
     - netcdf4
